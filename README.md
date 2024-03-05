@@ -1,3 +1,4 @@
+![Header](./ooo.png)
 <h1 align="center">Hi 👋, I'm Oumayma Boughanmi</h1>
 <h3 align="center">A passionate IT student</h3>
 
